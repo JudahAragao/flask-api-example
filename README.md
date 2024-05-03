@@ -24,7 +24,7 @@ Example of a python api made with the flask framework.
 ### Step by step
 
 ```bash
-$ sudo mkvirtualenv -p /usr/bin/python3 flask-api-users (or whatever name you prefer)
+$ sudo mkvirtualenv -p /usr/bin/python3 flask-api-users (or any name you like)
 ```
 
 ```bash
